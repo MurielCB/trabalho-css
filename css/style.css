@@ -58,9 +58,9 @@ body {
     background-color: rgb(247, 247, 247);
 }
 .container{
-    background-image: url(/img/tenis-trab.jpg);
-    background-size: contain; 
-    height: 200px; 
+   flex-direction: row;
+   text-align: center;
+        
 }
 body{
   background-color: #2E476F;
